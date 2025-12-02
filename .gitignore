@@ -1,0 +1,33 @@
+﻿# Python / project
+venv/
+venv_*/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# models / checkpoints and large files
+checkpoints/
+models/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# DLLs, wheels, OS files
+*.dll
+*.exe
+*.so
+*.dylib
+
+# archives / packages
+*.zip
+*.tar.gz
+*.tgz
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,10 @@
+flwr==1.5.0
+torch>=1.12.0
+transformers>=4.20.0
+datasets>=2.0.0
+scikit-learn
+flask
+matplotlib
+pandas
+numpy
+tqdm
